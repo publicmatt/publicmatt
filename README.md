@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @publicmatt
+- 👀 I’m interested in data science, web development, recreation.
+- 🌱 I’m currently learning climate modeling, diffusion, js.
+- 💞️ I’m looking to collaborate on anything data, databases, visualization, etc.
+- 📫 How to reach me: https://www.publicmatt.com or [contact@publicmatt.com](mailto:contact@publicmatt.com)
