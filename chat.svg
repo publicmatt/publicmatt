@@ -300,7 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I write software. I work in web, data and machine learning,</text>
+    <text x="15" y="27">I write software. I work with web tech, data and machine learning,</text>
     <text x="15" y="50">and graduated from Western Washington University with a MS in Computer Science 5 days ago.</text>
   </g>
 
