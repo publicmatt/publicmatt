@@ -1,0 +1,4 @@
+requests
+pendulum
+quantiphy
+python-dotenv
