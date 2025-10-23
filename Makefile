@@ -5,10 +5,10 @@ PYTHON=.venv/bin/python
 all: build commit
 
 install: requirements.txt
-	$(PYTHON) -m pip install -r $^
+	uv sync
 
-build: build-svg.py template.svg
-	$(PYTHON) $<
+build: app.py template.svg
+	uv run app.py
 
 commit: chat.svg
 	git add '*.svg' && \

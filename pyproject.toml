@@ -1,0 +1,11 @@
+[project]
+name = "git-profile"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "pendulum",
+    "quantiphy",
+    "python-dotenv",
+    "pydantic-settings>=2.11.0",
+]
